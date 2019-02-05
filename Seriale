@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Top seriale</title>
+    </head>
+
+    <body>
+        <table border="0" cellspacing="10">
+            <tr>
+                <td rowspan="2"><img src="game.jpg" width="110"/></td>
+                <td><h2> Games Of Thrones</h2> Fantasy, Drama, Action</td>
+            </tr>
+            <tr>
+                <td><hr></td>
+             </tr>   
+             <tr>
+                <td rowspan="2"><img src="Breaking bad.jpg" width="110"/></td>
+                <td><h2> The Breaking Bad</h2> Crime, Drama, Thriller</td>
+            </tr>
+            <tr>
+                <td><hr></td>
+             </tr>     
+             <tr>
+                <td rowspan="2"><img src="supernatural.jpg" width="110"/></td>
+                <td><h2> Supernatural</h2> Fantasy, Adventure, Drama</td>
+            </tr>
+            <tr>
+                <td><hr/></td>
+             </tr>   
+             <tr>
+                <td rowspan="2"><img src="vikings.jpg" width="110"/></td>
+                <td><h2> Vikings</h2> Historical, drama, action</td>
+            </tr>
+            <tr>
+                <td><hr/></td>
+             </tr>   
+             <tr>
+                <td rowspan="2"><img src="bang.jpg" width="110"/></td>
+                <td><h2> The Big Bang Theory</h2> Comedy, Romance</td>
+            </tr>
+            <tr>
+                <td><hr/></td>
+             </tr>   
+             <tr>
+                <td rowspan="2"><img src="doctor who.jpg" width="110"/></td>
+                <td><h2> Doctor Who</h2> Fantastic, Adventure, Drama</td>
+            </tr>
+            <tr>
+                <td><hr/></td>
+             </tr>   
+             <tr>
+                <td rowspan="2"><img src="american.jpg" width="110"/></td>
+                <td><h2> American Horror Story</h2> Fantasy, Horror, Drama</td>
+            </tr>
+            <tr>
+                <td><hr/></td>
+             </tr>  
+        </table>
+    </body>
+</html>
