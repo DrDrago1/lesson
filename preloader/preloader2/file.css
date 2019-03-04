@@ -1,0 +1,50 @@
+.ground{
+    height: 400px;
+    border-bottom: 5px solid #333;
+    text-align: center;
+}
+
+.ground img{
+    transform: translateY(307px);
+    animation: bounce 1s 5;
+}
+@keyframes bounce{
+    form{
+        transform: translateY(307px) rotate(0deg);
+    }
+    50%{
+        transform: translateY(100px) rotate(720deg);
+    }
+    to{
+        transform: translateY(307px) rotate(0deg);
+    }
+}
+
+.shadow{
+    width:100px;
+    height: 50px;
+    background-color: #999;
+    margin: auto;
+    border-radius: 100%;
+    animation: shad 1s 5;
+}
+
+@keyframes shad{
+    form{
+        background-color: #999;
+        transform: scale(1.0)
+    }
+    50%{
+        background-color: #fff;
+        transform: scale(0.2)
+    }
+    to{
+        background-color: #999;
+        transform: scale(1.0)
+    }
+}
+ 
+
+
+    
+
